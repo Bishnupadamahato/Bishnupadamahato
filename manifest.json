@@ -1,0 +1,21 @@
+  { "manifest_version": 3, 
+  "name": "History Keyword Search", 
+  "version": "1.0", 
+  "description": "A Chrome extension that searches for keywords in the user’s browsing history", 
+  "permissions": ["history"], 
+  "action": { 
+    "default_icon": "icon.png", 
+  "default_popup": "Demo.html" 
+  } 
+}
+//{
+    //"manifest_version": 3,
+    //"name": "Browser History",
+    //"version": "1.0",
+    //"permissions": ["history"],
+    //"action": {
+     // "default_popup": "Demo.html"
+   // }
+  //}
+  
+  
